@@ -1,0 +1,3 @@
+rootProject.name = 'bus_tracking_1176'
+
+include ':app'
